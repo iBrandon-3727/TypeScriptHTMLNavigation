@@ -1,0 +1,40 @@
+h1 {
+    color: rgb(230, 222, 222);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 4em;
+}
+
+#MasterTest {
+    position: absolute;
+    top: 0%;
+    left: 37%;
+    right: 40%;
+}
+
+#test1 {
+    color: greenyellow;
+    border-style: solid;
+    padding: 1mm ;
+    /* margin-left: auto;
+    margin-right: auto; */
+    width: 5em    
+}
+
+#test2 {
+    color: red;
+    border-style: solid;
+    padding: 1mm ;
+    /* margin-left: auto;
+    margin-right: auto; */
+    width: 5em
+}
+
+#test3 {
+    color: burlywood;
+    border-style: solid;
+    padding: 1mm ;
+    /* margin-left: auto;
+    margin-right: auto; */
+    width: 5em
+}
